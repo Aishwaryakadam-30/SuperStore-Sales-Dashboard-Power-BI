@@ -79,7 +79,6 @@ DIVIDE(
     CALCULATE([Total Sales], SAMEPERIODLASTYEAR('Calendar'[Date]))
 )
 ` ` `
-
 ---
 
 ## Dashboard Screenshots
@@ -105,5 +104,5 @@ No credentials. No gateway. Just the two files.
 
 **Aishwarya Kadam**
 [LinkedIn](https://linkedin.com/in/aish0830) · [GitHub](https://github.com/Aishwaryakadam-30)
-```
+
 
