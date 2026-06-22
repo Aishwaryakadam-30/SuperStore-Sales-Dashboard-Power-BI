@@ -103,14 +103,7 @@ No credentials. No gateway. Just the two files.
 
 ---
 
-## About
-
-Built as a portfolio project to demonstrate end-to-end Power BI skills — data modeling, DAX, multi-page report design, and forecasting. Dataset is publicly available; the analysis and design decisions are mine.
-
 **Aishwarya Kadam**
 [LinkedIn](https://linkedin.com/in/aish0830) · [GitHub](https://github.com/Aishwaryakadam-30)
 ```
 
----
-
-Just copy-paste this directly into a `README.md` file in your repo root. Add your two screenshots to a `/screenshots` folder and the images will render automatically on GitHub.
