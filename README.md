@@ -85,10 +85,10 @@ DIVIDE(
 ## Dashboard Screenshots
 
 **Page 1 — Sales Overview**
-![Sales Overview] (<img width="1587" height="887" alt="Screenshot 2026-06-22 at 12 38 19 PM" src="https://github.com/user-attachments/assets/8d4d46f3-d207-450f-9f75-7b0eaf5caaf5" />)
+![Sales Overview] <img width="1587" height="887" alt="Screenshot 2026-06-22 at 12 38 19 PM" src="https://github.com/user-attachments/assets/8d4d46f3-d207-450f-9f75-7b0eaf5caaf5" />
 
 **Page 2 — Forecast**
-![Forecast](<img width="1587" height="887" alt="Screenshot 2026-06-22 at 12 38 55 PM" src="https://github.com/user-attachments/assets/6ebbb17a-460f-435c-9299-f0900ffd3290" />)
+![Forecast] <img width="1587" height="887" alt="Screenshot 2026-06-22 at 12 38 55 PM" src="https://github.com/user-attachments/assets/6ebbb17a-460f-435c-9299-f0900ffd3290" />
 
 ---
 
